@@ -1,0 +1,215 @@
+C:\Users\BASKURT\source\repos\CokKatmanliMimari\CokKatmanliMimari.PL\obj\Debug\CokKatmanliMimari.PL.csprojAssemblyReference.cache
+C:\Users\BASKURT\source\repos\CokKatmanliMimari\CokKatmanliMimari.PL\obj\Debug\CokKatmanliMimari.PL.OgrenciForm.resources
+C:\Users\BASKURT\source\repos\CokKatmanliMimari\CokKatmanliMimari.PL\obj\Debug\CokKatmanliMimari.PL.Properties.Resources.resources
+C:\Users\BASKURT\source\repos\CokKatmanliMimari\CokKatmanliMimari.PL\obj\Debug\CokKatmanliMimari.PL.csproj.GenerateResource.cache
+C:\Users\BASKURT\source\repos\CokKatmanliMimari\CokKatmanliMimari.PL\obj\Debug\CokKatmanliMimari.PL.csproj.CoreCompileInputs.cache
+C:\Users\BASKURT\source\repos\CokKatmanliMimari\CokKatmanliMimari.PL\bin\Debug\CokKatmanliMimari.PL.exe.config
+C:\Users\BASKURT\source\repos\CokKatmanliMimari\CokKatmanliMimari.PL\bin\Debug\CokKatmanliMimari.PL.exe
+C:\Users\BASKURT\source\repos\CokKatmanliMimari\CokKatmanliMimari.PL\bin\Debug\CokKatmanliMimari.PL.pdb
+C:\Users\BASKURT\source\repos\CokKatmanliMimari\CokKatmanliMimari.PL\bin\Debug\BL.dll
+C:\Users\BASKURT\source\repos\CokKatmanliMimari\CokKatmanliMimari.PL\bin\Debug\Entity.dll
+C:\Users\BASKURT\source\repos\CokKatmanliMimari\CokKatmanliMimari.PL\bin\Debug\DAL.dll
+C:\Users\BASKURT\source\repos\CokKatmanliMimari\CokKatmanliMimari.PL\bin\Debug\BL.pdb
+C:\Users\BASKURT\source\repos\CokKatmanliMimari\CokKatmanliMimari.PL\bin\Debug\Entity.pdb
+C:\Users\BASKURT\source\repos\CokKatmanliMimari\CokKatmanliMimari.PL\bin\Debug\DAL.pdb
+C:\Users\BASKURT\source\repos\CokKatmanliMimari\CokKatmanliMimari.PL\obj\Debug\CokKatmanliMimari.PL.csproj.CopyComplete
+C:\Users\BASKURT\source\repos\CokKatmanliMimari\CokKatmanliMimari.PL\obj\Debug\CokKatmanliMimari.PL.exe
+C:\Users\BASKURT\source\repos\CokKatmanliMimari\CokKatmanliMimari.PL\obj\Debug\CokKatmanliMimari.PL.pdb
+C:\Users\BASKURT\source\repos\CokKatmanliMimari\CokKatmanliMimari.PL\bin\Debug\System.Data.OleDb.dll
+C:\Users\BASKURT\source\repos\CokKatmanliMimari\CokKatmanliMimari.PL\bin\Debug\System.Data.OleDb.xml
+C:\Users\BASKURT\source\repos\CokKatmanliMimari\CokKatmanliMimari.PL\bin\Debug\DAL.dll.config
+C:\Users\BASKURT\source\repos\CokKatmanliMimari\CokKatmanliMimari.PL\obj\Debug\CokKatmanliMimari.PL.BaslangicForm.resources
+C:\Users\BASKURT\source\repos\CokKatmanliMimari\CokKatmanliMimari.PL\obj\Debug\CokKatmanliMimari.PL.OgrenciGirisForm.resources
+C:\Users\BASKURT\source\repos\CokKatmanliMimari\CokKatmanliMimari.PL\obj\Debug\CokKatmanliMimari.PL.GorevliGirisForm.resources
+C:\Users\BASKURT\source\repos\CokKatmanliMimari\CokKatmanliMimari.PL\obj\Debug\CokKatmanliMimari.PL.GorevliGecisForm.resources
+C:\Users\BASKURT\source\repos\CokKatmanliMimari\CokKatmanliMimari.PL\obj\Debug\CokKatmanliMimari.PL.OgrenciIslemForm.resources
+C:\Users\BASKURT\source\repos\CokKatmanliMimari\CokKatmanliMimari.PL\obj\Debug\CokKatmanliMimari.PL.KitapIslemForm.resources
+C:\Users\BASKURT\source\repos\CokKatmanliMimari\CokKatmanliMimari.PL\obj\Debug\CokKatmanliMimari.PL.KitapArama.resources
+C:\Users\BASKURT\source\repos\CokKatmanliMimari\CokKatmanliMimari.PL\obj\Debug\CokKatmanliMimari.PL.GrafikForm.resources
+C:\Users\BASKURT\source\repos\CokKatmanliMimari\CokKatmanliMimari.PL\bin\Debug\ZedGraph.dll
+C:\Users\BASKURT\source\repos\CokKatmanliMimari\CokKatmanliMimari.PL\bin\Debug\ZedGraph.xml
+C:\Users\BASKURT\source\repos\CokKatmanliMimari\CokKatmanliMimari.PL\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\BASKURT\source\repos\CokKatmanliMimari\CokKatmanliMimari.PL\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\BASKURT\source\repos\CokKatmanliMimari\CokKatmanliMimari.PL\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\BASKURT\source\repos\CokKatmanliMimari\CokKatmanliMimari.PL\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\BASKURT\source\repos\CokKatmanliMimari\CokKatmanliMimari.PL\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\BASKURT\source\repos\CokKatmanliMimari\CokKatmanliMimari.PL\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\BASKURT\source\repos\CokKatmanliMimari\CokKatmanliMimari.PL\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\BASKURT\source\repos\CokKatmanliMimari\CokKatmanliMimari.PL\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\BASKURT\source\repos\CokKatmanliMimari\CokKatmanliMimari.PL\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\BASKURT\source\repos\CokKatmanliMimari\CokKatmanliMimari.PL\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\BASKURT\source\repos\CokKatmanliMimari\CokKatmanliMimari.PL\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\BASKURT\source\repos\CokKatmanliMimari\CokKatmanliMimari.PL\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\BASKURT\source\repos\CokKatmanliMimari\CokKatmanliMimari.PL\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\BASKURT\Desktop\Proje_KutuphaneOtomasyonu\CokKatmanliMimari\CokKatmanliMimari.PL\bin\Debug\CokKatmanliMimari.PL.exe.config
+C:\Users\BASKURT\Desktop\Proje_KutuphaneOtomasyonu\CokKatmanliMimari\CokKatmanliMimari.PL\bin\Debug\CokKatmanliMimari.PL.exe
+C:\Users\BASKURT\Desktop\Proje_KutuphaneOtomasyonu\CokKatmanliMimari\CokKatmanliMimari.PL\bin\Debug\CokKatmanliMimari.PL.pdb
+C:\Users\BASKURT\Desktop\Proje_KutuphaneOtomasyonu\CokKatmanliMimari\CokKatmanliMimari.PL\bin\Debug\BL.dll
+C:\Users\BASKURT\Desktop\Proje_KutuphaneOtomasyonu\CokKatmanliMimari\CokKatmanliMimari.PL\bin\Debug\Entity.dll
+C:\Users\BASKURT\Desktop\Proje_KutuphaneOtomasyonu\CokKatmanliMimari\CokKatmanliMimari.PL\bin\Debug\System.Data.OleDb.dll
+C:\Users\BASKURT\Desktop\Proje_KutuphaneOtomasyonu\CokKatmanliMimari\CokKatmanliMimari.PL\bin\Debug\ZedGraph.dll
+C:\Users\BASKURT\Desktop\Proje_KutuphaneOtomasyonu\CokKatmanliMimari\CokKatmanliMimari.PL\bin\Debug\DAL.dll
+C:\Users\BASKURT\Desktop\Proje_KutuphaneOtomasyonu\CokKatmanliMimari\CokKatmanliMimari.PL\bin\Debug\BL.pdb
+C:\Users\BASKURT\Desktop\Proje_KutuphaneOtomasyonu\CokKatmanliMimari\CokKatmanliMimari.PL\bin\Debug\Entity.pdb
+C:\Users\BASKURT\Desktop\Proje_KutuphaneOtomasyonu\CokKatmanliMimari\CokKatmanliMimari.PL\bin\Debug\System.Data.OleDb.xml
+C:\Users\BASKURT\Desktop\Proje_KutuphaneOtomasyonu\CokKatmanliMimari\CokKatmanliMimari.PL\bin\Debug\ZedGraph.xml
+C:\Users\BASKURT\Desktop\Proje_KutuphaneOtomasyonu\CokKatmanliMimari\CokKatmanliMimari.PL\bin\Debug\DAL.pdb
+C:\Users\BASKURT\Desktop\Proje_KutuphaneOtomasyonu\CokKatmanliMimari\CokKatmanliMimari.PL\bin\Debug\DAL.dll.config
+C:\Users\BASKURT\Desktop\Proje_KutuphaneOtomasyonu\CokKatmanliMimari\CokKatmanliMimari.PL\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\BASKURT\Desktop\Proje_KutuphaneOtomasyonu\CokKatmanliMimari\CokKatmanliMimari.PL\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\BASKURT\Desktop\Proje_KutuphaneOtomasyonu\CokKatmanliMimari\CokKatmanliMimari.PL\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\BASKURT\Desktop\Proje_KutuphaneOtomasyonu\CokKatmanliMimari\CokKatmanliMimari.PL\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\BASKURT\Desktop\Proje_KutuphaneOtomasyonu\CokKatmanliMimari\CokKatmanliMimari.PL\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\BASKURT\Desktop\Proje_KutuphaneOtomasyonu\CokKatmanliMimari\CokKatmanliMimari.PL\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\BASKURT\Desktop\Proje_KutuphaneOtomasyonu\CokKatmanliMimari\CokKatmanliMimari.PL\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\BASKURT\Desktop\Proje_KutuphaneOtomasyonu\CokKatmanliMimari\CokKatmanliMimari.PL\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\BASKURT\Desktop\Proje_KutuphaneOtomasyonu\CokKatmanliMimari\CokKatmanliMimari.PL\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\BASKURT\Desktop\Proje_KutuphaneOtomasyonu\CokKatmanliMimari\CokKatmanliMimari.PL\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\BASKURT\Desktop\Proje_KutuphaneOtomasyonu\CokKatmanliMimari\CokKatmanliMimari.PL\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\BASKURT\Desktop\Proje_KutuphaneOtomasyonu\CokKatmanliMimari\CokKatmanliMimari.PL\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\BASKURT\Desktop\Proje_KutuphaneOtomasyonu\CokKatmanliMimari\CokKatmanliMimari.PL\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\BASKURT\Desktop\Proje_KutuphaneOtomasyonu\CokKatmanliMimari\CokKatmanliMimari.PL\obj\Debug\CokKatmanliMimari.PL.csprojAssemblyReference.cache
+C:\Users\BASKURT\Desktop\Proje_KutuphaneOtomasyonu\CokKatmanliMimari\CokKatmanliMimari.PL\obj\Debug\CokKatmanliMimari.PL.BaslangicForm.resources
+C:\Users\BASKURT\Desktop\Proje_KutuphaneOtomasyonu\CokKatmanliMimari\CokKatmanliMimari.PL\obj\Debug\CokKatmanliMimari.PL.GorevliGecisForm.resources
+C:\Users\BASKURT\Desktop\Proje_KutuphaneOtomasyonu\CokKatmanliMimari\CokKatmanliMimari.PL\obj\Debug\CokKatmanliMimari.PL.GorevliGirisForm.resources
+C:\Users\BASKURT\Desktop\Proje_KutuphaneOtomasyonu\CokKatmanliMimari\CokKatmanliMimari.PL\obj\Debug\CokKatmanliMimari.PL.GrafikForm.resources
+C:\Users\BASKURT\Desktop\Proje_KutuphaneOtomasyonu\CokKatmanliMimari\CokKatmanliMimari.PL\obj\Debug\CokKatmanliMimari.PL.KitapArama.resources
+C:\Users\BASKURT\Desktop\Proje_KutuphaneOtomasyonu\CokKatmanliMimari\CokKatmanliMimari.PL\obj\Debug\CokKatmanliMimari.PL.KitapIslemForm.resources
+C:\Users\BASKURT\Desktop\Proje_KutuphaneOtomasyonu\CokKatmanliMimari\CokKatmanliMimari.PL\obj\Debug\CokKatmanliMimari.PL.OgrenciGirisForm.resources
+C:\Users\BASKURT\Desktop\Proje_KutuphaneOtomasyonu\CokKatmanliMimari\CokKatmanliMimari.PL\obj\Debug\CokKatmanliMimari.PL.OgrenciForm.resources
+C:\Users\BASKURT\Desktop\Proje_KutuphaneOtomasyonu\CokKatmanliMimari\CokKatmanliMimari.PL\obj\Debug\CokKatmanliMimari.PL.OgrenciIslemForm.resources
+C:\Users\BASKURT\Desktop\Proje_KutuphaneOtomasyonu\CokKatmanliMimari\CokKatmanliMimari.PL\obj\Debug\CokKatmanliMimari.PL.Properties.Resources.resources
+C:\Users\BASKURT\Desktop\Proje_KutuphaneOtomasyonu\CokKatmanliMimari\CokKatmanliMimari.PL\obj\Debug\CokKatmanliMimari.PL.csproj.GenerateResource.cache
+C:\Users\BASKURT\Desktop\Proje_KutuphaneOtomasyonu\CokKatmanliMimari\CokKatmanliMimari.PL\obj\Debug\CokKatmanliMimari.PL.csproj.CoreCompileInputs.cache
+C:\Users\BASKURT\Desktop\Proje_KutuphaneOtomasyonu\CokKatmanliMimari\CokKatmanliMimari.PL\obj\Debug\CokKatmanliMimari.PL.csproj.CopyComplete
+C:\Users\BASKURT\Desktop\Proje_KutuphaneOtomasyonu\CokKatmanliMimari\CokKatmanliMimari.PL\obj\Debug\CokKatmanliMimari.PL.exe
+C:\Users\BASKURT\Desktop\Proje_KutuphaneOtomasyonu\CokKatmanliMimari\CokKatmanliMimari.PL\obj\Debug\CokKatmanliMimari.PL.pdb
+C:\Users\BASKURT\Desktop\Moruk Güncel Setup\CokKatmanliMimari\CokKatmanliMimari.PL\bin\Debug\CokKatmanliMimari.PL.exe.config
+C:\Users\BASKURT\Desktop\Moruk Güncel Setup\CokKatmanliMimari\CokKatmanliMimari.PL\bin\Debug\CokKatmanliMimari.PL.exe
+C:\Users\BASKURT\Desktop\Moruk Güncel Setup\CokKatmanliMimari\CokKatmanliMimari.PL\bin\Debug\CokKatmanliMimari.PL.pdb
+C:\Users\BASKURT\Desktop\Moruk Güncel Setup\CokKatmanliMimari\CokKatmanliMimari.PL\bin\Debug\BL.dll
+C:\Users\BASKURT\Desktop\Moruk Güncel Setup\CokKatmanliMimari\CokKatmanliMimari.PL\bin\Debug\Entity.dll
+C:\Users\BASKURT\Desktop\Moruk Güncel Setup\CokKatmanliMimari\CokKatmanliMimari.PL\bin\Debug\System.Data.OleDb.dll
+C:\Users\BASKURT\Desktop\Moruk Güncel Setup\CokKatmanliMimari\CokKatmanliMimari.PL\bin\Debug\ZedGraph.dll
+C:\Users\BASKURT\Desktop\Moruk Güncel Setup\CokKatmanliMimari\CokKatmanliMimari.PL\bin\Debug\DAL.dll
+C:\Users\BASKURT\Desktop\Moruk Güncel Setup\CokKatmanliMimari\CokKatmanliMimari.PL\bin\Debug\BL.pdb
+C:\Users\BASKURT\Desktop\Moruk Güncel Setup\CokKatmanliMimari\CokKatmanliMimari.PL\bin\Debug\Entity.pdb
+C:\Users\BASKURT\Desktop\Moruk Güncel Setup\CokKatmanliMimari\CokKatmanliMimari.PL\bin\Debug\System.Data.OleDb.xml
+C:\Users\BASKURT\Desktop\Moruk Güncel Setup\CokKatmanliMimari\CokKatmanliMimari.PL\bin\Debug\ZedGraph.xml
+C:\Users\BASKURT\Desktop\Moruk Güncel Setup\CokKatmanliMimari\CokKatmanliMimari.PL\bin\Debug\DAL.pdb
+C:\Users\BASKURT\Desktop\Moruk Güncel Setup\CokKatmanliMimari\CokKatmanliMimari.PL\bin\Debug\DAL.dll.config
+C:\Users\BASKURT\Desktop\Moruk Güncel Setup\CokKatmanliMimari\CokKatmanliMimari.PL\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\BASKURT\Desktop\Moruk Güncel Setup\CokKatmanliMimari\CokKatmanliMimari.PL\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\BASKURT\Desktop\Moruk Güncel Setup\CokKatmanliMimari\CokKatmanliMimari.PL\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\BASKURT\Desktop\Moruk Güncel Setup\CokKatmanliMimari\CokKatmanliMimari.PL\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\BASKURT\Desktop\Moruk Güncel Setup\CokKatmanliMimari\CokKatmanliMimari.PL\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\BASKURT\Desktop\Moruk Güncel Setup\CokKatmanliMimari\CokKatmanliMimari.PL\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\BASKURT\Desktop\Moruk Güncel Setup\CokKatmanliMimari\CokKatmanliMimari.PL\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\BASKURT\Desktop\Moruk Güncel Setup\CokKatmanliMimari\CokKatmanliMimari.PL\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\BASKURT\Desktop\Moruk Güncel Setup\CokKatmanliMimari\CokKatmanliMimari.PL\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\BASKURT\Desktop\Moruk Güncel Setup\CokKatmanliMimari\CokKatmanliMimari.PL\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\BASKURT\Desktop\Moruk Güncel Setup\CokKatmanliMimari\CokKatmanliMimari.PL\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\BASKURT\Desktop\Moruk Güncel Setup\CokKatmanliMimari\CokKatmanliMimari.PL\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\BASKURT\Desktop\Moruk Güncel Setup\CokKatmanliMimari\CokKatmanliMimari.PL\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\BASKURT\Desktop\Moruk Güncel Setup\CokKatmanliMimari\CokKatmanliMimari.PL\obj\Debug\CokKatmanliMimari.PL.csprojAssemblyReference.cache
+C:\Users\BASKURT\Desktop\Moruk Güncel Setup\CokKatmanliMimari\CokKatmanliMimari.PL\obj\Debug\CokKatmanliMimari.PL.BaslangicForm.resources
+C:\Users\BASKURT\Desktop\Moruk Güncel Setup\CokKatmanliMimari\CokKatmanliMimari.PL\obj\Debug\CokKatmanliMimari.PL.GorevliGecisForm.resources
+C:\Users\BASKURT\Desktop\Moruk Güncel Setup\CokKatmanliMimari\CokKatmanliMimari.PL\obj\Debug\CokKatmanliMimari.PL.GorevliGirisForm.resources
+C:\Users\BASKURT\Desktop\Moruk Güncel Setup\CokKatmanliMimari\CokKatmanliMimari.PL\obj\Debug\CokKatmanliMimari.PL.GrafikForm.resources
+C:\Users\BASKURT\Desktop\Moruk Güncel Setup\CokKatmanliMimari\CokKatmanliMimari.PL\obj\Debug\CokKatmanliMimari.PL.KitapArama.resources
+C:\Users\BASKURT\Desktop\Moruk Güncel Setup\CokKatmanliMimari\CokKatmanliMimari.PL\obj\Debug\CokKatmanliMimari.PL.KitapIslemForm.resources
+C:\Users\BASKURT\Desktop\Moruk Güncel Setup\CokKatmanliMimari\CokKatmanliMimari.PL\obj\Debug\CokKatmanliMimari.PL.OgrenciGirisForm.resources
+C:\Users\BASKURT\Desktop\Moruk Güncel Setup\CokKatmanliMimari\CokKatmanliMimari.PL\obj\Debug\CokKatmanliMimari.PL.OgrenciForm.resources
+C:\Users\BASKURT\Desktop\Moruk Güncel Setup\CokKatmanliMimari\CokKatmanliMimari.PL\obj\Debug\CokKatmanliMimari.PL.OgrenciIslemForm.resources
+C:\Users\BASKURT\Desktop\Moruk Güncel Setup\CokKatmanliMimari\CokKatmanliMimari.PL\obj\Debug\CokKatmanliMimari.PL.Properties.Resources.resources
+C:\Users\BASKURT\Desktop\Moruk Güncel Setup\CokKatmanliMimari\CokKatmanliMimari.PL\obj\Debug\CokKatmanliMimari.PL.csproj.GenerateResource.cache
+C:\Users\BASKURT\Desktop\Moruk Güncel Setup\CokKatmanliMimari\CokKatmanliMimari.PL\obj\Debug\CokKatmanliMimari.PL.csproj.CoreCompileInputs.cache
+C:\Users\BASKURT\Desktop\Moruk Güncel Setup\CokKatmanliMimari\CokKatmanliMimari.PL\obj\Debug\CokKatmanliMimari.PL.csproj.CopyComplete
+C:\Users\BASKURT\Desktop\Moruk Güncel Setup\CokKatmanliMimari\CokKatmanliMimari.PL\obj\Debug\CokKatmanliMimari.PL.exe
+C:\Users\BASKURT\Desktop\Moruk Güncel Setup\CokKatmanliMimari\CokKatmanliMimari.PL\obj\Debug\CokKatmanliMimari.PL.pdb
+C:\Users\BASKURT\Desktop\OLD_DERSLER\3.Sınıf\1. Dönem\Görsel Programlama\Projeler\Güncel proje\CokKatmanliMimari\CokKatmanliMimari.PL\bin\Debug\CokKatmanliMimari.PL.exe.config
+C:\Users\BASKURT\Desktop\OLD_DERSLER\3.Sınıf\1. Dönem\Görsel Programlama\Projeler\Güncel proje\CokKatmanliMimari\CokKatmanliMimari.PL\bin\Debug\CokKatmanliMimari.PL.exe
+C:\Users\BASKURT\Desktop\OLD_DERSLER\3.Sınıf\1. Dönem\Görsel Programlama\Projeler\Güncel proje\CokKatmanliMimari\CokKatmanliMimari.PL\bin\Debug\CokKatmanliMimari.PL.pdb
+C:\Users\BASKURT\Desktop\OLD_DERSLER\3.Sınıf\1. Dönem\Görsel Programlama\Projeler\Güncel proje\CokKatmanliMimari\CokKatmanliMimari.PL\bin\Debug\BL.dll
+C:\Users\BASKURT\Desktop\OLD_DERSLER\3.Sınıf\1. Dönem\Görsel Programlama\Projeler\Güncel proje\CokKatmanliMimari\CokKatmanliMimari.PL\bin\Debug\Entity.dll
+C:\Users\BASKURT\Desktop\OLD_DERSLER\3.Sınıf\1. Dönem\Görsel Programlama\Projeler\Güncel proje\CokKatmanliMimari\CokKatmanliMimari.PL\bin\Debug\System.Data.OleDb.dll
+C:\Users\BASKURT\Desktop\OLD_DERSLER\3.Sınıf\1. Dönem\Görsel Programlama\Projeler\Güncel proje\CokKatmanliMimari\CokKatmanliMimari.PL\bin\Debug\ZedGraph.dll
+C:\Users\BASKURT\Desktop\OLD_DERSLER\3.Sınıf\1. Dönem\Görsel Programlama\Projeler\Güncel proje\CokKatmanliMimari\CokKatmanliMimari.PL\bin\Debug\DAL.dll
+C:\Users\BASKURT\Desktop\OLD_DERSLER\3.Sınıf\1. Dönem\Görsel Programlama\Projeler\Güncel proje\CokKatmanliMimari\CokKatmanliMimari.PL\bin\Debug\BL.pdb
+C:\Users\BASKURT\Desktop\OLD_DERSLER\3.Sınıf\1. Dönem\Görsel Programlama\Projeler\Güncel proje\CokKatmanliMimari\CokKatmanliMimari.PL\bin\Debug\Entity.pdb
+C:\Users\BASKURT\Desktop\OLD_DERSLER\3.Sınıf\1. Dönem\Görsel Programlama\Projeler\Güncel proje\CokKatmanliMimari\CokKatmanliMimari.PL\bin\Debug\System.Data.OleDb.xml
+C:\Users\BASKURT\Desktop\OLD_DERSLER\3.Sınıf\1. Dönem\Görsel Programlama\Projeler\Güncel proje\CokKatmanliMimari\CokKatmanliMimari.PL\bin\Debug\ZedGraph.xml
+C:\Users\BASKURT\Desktop\OLD_DERSLER\3.Sınıf\1. Dönem\Görsel Programlama\Projeler\Güncel proje\CokKatmanliMimari\CokKatmanliMimari.PL\bin\Debug\DAL.pdb
+C:\Users\BASKURT\Desktop\OLD_DERSLER\3.Sınıf\1. Dönem\Görsel Programlama\Projeler\Güncel proje\CokKatmanliMimari\CokKatmanliMimari.PL\bin\Debug\DAL.dll.config
+C:\Users\BASKURT\Desktop\OLD_DERSLER\3.Sınıf\1. Dönem\Görsel Programlama\Projeler\Güncel proje\CokKatmanliMimari\CokKatmanliMimari.PL\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\BASKURT\Desktop\OLD_DERSLER\3.Sınıf\1. Dönem\Görsel Programlama\Projeler\Güncel proje\CokKatmanliMimari\CokKatmanliMimari.PL\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\BASKURT\Desktop\OLD_DERSLER\3.Sınıf\1. Dönem\Görsel Programlama\Projeler\Güncel proje\CokKatmanliMimari\CokKatmanliMimari.PL\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\BASKURT\Desktop\OLD_DERSLER\3.Sınıf\1. Dönem\Görsel Programlama\Projeler\Güncel proje\CokKatmanliMimari\CokKatmanliMimari.PL\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\BASKURT\Desktop\OLD_DERSLER\3.Sınıf\1. Dönem\Görsel Programlama\Projeler\Güncel proje\CokKatmanliMimari\CokKatmanliMimari.PL\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\BASKURT\Desktop\OLD_DERSLER\3.Sınıf\1. Dönem\Görsel Programlama\Projeler\Güncel proje\CokKatmanliMimari\CokKatmanliMimari.PL\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\BASKURT\Desktop\OLD_DERSLER\3.Sınıf\1. Dönem\Görsel Programlama\Projeler\Güncel proje\CokKatmanliMimari\CokKatmanliMimari.PL\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\BASKURT\Desktop\OLD_DERSLER\3.Sınıf\1. Dönem\Görsel Programlama\Projeler\Güncel proje\CokKatmanliMimari\CokKatmanliMimari.PL\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\BASKURT\Desktop\OLD_DERSLER\3.Sınıf\1. Dönem\Görsel Programlama\Projeler\Güncel proje\CokKatmanliMimari\CokKatmanliMimari.PL\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\BASKURT\Desktop\OLD_DERSLER\3.Sınıf\1. Dönem\Görsel Programlama\Projeler\Güncel proje\CokKatmanliMimari\CokKatmanliMimari.PL\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\BASKURT\Desktop\OLD_DERSLER\3.Sınıf\1. Dönem\Görsel Programlama\Projeler\Güncel proje\CokKatmanliMimari\CokKatmanliMimari.PL\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\BASKURT\Desktop\OLD_DERSLER\3.Sınıf\1. Dönem\Görsel Programlama\Projeler\Güncel proje\CokKatmanliMimari\CokKatmanliMimari.PL\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\BASKURT\Desktop\OLD_DERSLER\3.Sınıf\1. Dönem\Görsel Programlama\Projeler\Güncel proje\CokKatmanliMimari\CokKatmanliMimari.PL\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\BASKURT\Desktop\OLD_DERSLER\3.Sınıf\1. Dönem\Görsel Programlama\Projeler\Güncel proje\CokKatmanliMimari\CokKatmanliMimari.PL\obj\Debug\CokKatmanliMimari.PL.BaslangicForm.resources
+C:\Users\BASKURT\Desktop\OLD_DERSLER\3.Sınıf\1. Dönem\Görsel Programlama\Projeler\Güncel proje\CokKatmanliMimari\CokKatmanliMimari.PL\obj\Debug\CokKatmanliMimari.PL.GorevliGecisForm.resources
+C:\Users\BASKURT\Desktop\OLD_DERSLER\3.Sınıf\1. Dönem\Görsel Programlama\Projeler\Güncel proje\CokKatmanliMimari\CokKatmanliMimari.PL\obj\Debug\CokKatmanliMimari.PL.GorevliGirisForm.resources
+C:\Users\BASKURT\Desktop\OLD_DERSLER\3.Sınıf\1. Dönem\Görsel Programlama\Projeler\Güncel proje\CokKatmanliMimari\CokKatmanliMimari.PL\obj\Debug\CokKatmanliMimari.PL.GrafikForm.resources
+C:\Users\BASKURT\Desktop\OLD_DERSLER\3.Sınıf\1. Dönem\Görsel Programlama\Projeler\Güncel proje\CokKatmanliMimari\CokKatmanliMimari.PL\obj\Debug\CokKatmanliMimari.PL.KitapArama.resources
+C:\Users\BASKURT\Desktop\OLD_DERSLER\3.Sınıf\1. Dönem\Görsel Programlama\Projeler\Güncel proje\CokKatmanliMimari\CokKatmanliMimari.PL\obj\Debug\CokKatmanliMimari.PL.KitapIslemForm.resources
+C:\Users\BASKURT\Desktop\OLD_DERSLER\3.Sınıf\1. Dönem\Görsel Programlama\Projeler\Güncel proje\CokKatmanliMimari\CokKatmanliMimari.PL\obj\Debug\CokKatmanliMimari.PL.OgrenciGirisForm.resources
+C:\Users\BASKURT\Desktop\OLD_DERSLER\3.Sınıf\1. Dönem\Görsel Programlama\Projeler\Güncel proje\CokKatmanliMimari\CokKatmanliMimari.PL\obj\Debug\CokKatmanliMimari.PL.OgrenciForm.resources
+C:\Users\BASKURT\Desktop\OLD_DERSLER\3.Sınıf\1. Dönem\Görsel Programlama\Projeler\Güncel proje\CokKatmanliMimari\CokKatmanliMimari.PL\obj\Debug\CokKatmanliMimari.PL.OgrenciIslemForm.resources
+C:\Users\BASKURT\Desktop\OLD_DERSLER\3.Sınıf\1. Dönem\Görsel Programlama\Projeler\Güncel proje\CokKatmanliMimari\CokKatmanliMimari.PL\obj\Debug\CokKatmanliMimari.PL.Properties.Resources.resources
+C:\Users\BASKURT\Desktop\OLD_DERSLER\3.Sınıf\1. Dönem\Görsel Programlama\Projeler\Güncel proje\CokKatmanliMimari\CokKatmanliMimari.PL\obj\Debug\CokKatmanliMimari.PL.csproj.GenerateResource.cache
+C:\Users\BASKURT\Desktop\OLD_DERSLER\3.Sınıf\1. Dönem\Görsel Programlama\Projeler\Güncel proje\CokKatmanliMimari\CokKatmanliMimari.PL\obj\Debug\CokKatmanliMimari.PL.csproj.CoreCompileInputs.cache
+C:\Users\BASKURT\Desktop\OLD_DERSLER\3.Sınıf\1. Dönem\Görsel Programlama\Projeler\Güncel proje\CokKatmanliMimari\CokKatmanliMimari.PL\obj\Debug\CokKatmanliMimari.PL.csproj.CopyComplete
+C:\Users\BASKURT\Desktop\OLD_DERSLER\3.Sınıf\1. Dönem\Görsel Programlama\Projeler\Güncel proje\CokKatmanliMimari\CokKatmanliMimari.PL\obj\Debug\CokKatmanliMimari.PL.exe
+C:\Users\BASKURT\Desktop\OLD_DERSLER\3.Sınıf\1. Dönem\Görsel Programlama\Projeler\Güncel proje\CokKatmanliMimari\CokKatmanliMimari.PL\obj\Debug\CokKatmanliMimari.PL.pdb
+C:\Users\BASKURT\Desktop\OLD_DERSLER\3.Sınıf\1. Dönem\Görsel Programlama\Projeler\Güncel proje\CokKatmanliMimari\CokKatmanliMimari.PL\obj\Debug\CokKatmanliMimari.PL.csproj.AssemblyReference.cache
+D:\OLD_DERSLER\3.Sınıf\1. Dönem\Görsel Programlama\Projeler\Güncel proje\CokKatmanliMimari\CokKatmanliMimari.PL\bin\Debug\CokKatmanliMimari.PL.exe.config
+D:\OLD_DERSLER\3.Sınıf\1. Dönem\Görsel Programlama\Projeler\Güncel proje\CokKatmanliMimari\CokKatmanliMimari.PL\bin\Debug\CokKatmanliMimari.PL.exe
+D:\OLD_DERSLER\3.Sınıf\1. Dönem\Görsel Programlama\Projeler\Güncel proje\CokKatmanliMimari\CokKatmanliMimari.PL\bin\Debug\CokKatmanliMimari.PL.pdb
+D:\OLD_DERSLER\3.Sınıf\1. Dönem\Görsel Programlama\Projeler\Güncel proje\CokKatmanliMimari\CokKatmanliMimari.PL\bin\Debug\BL.dll
+D:\OLD_DERSLER\3.Sınıf\1. Dönem\Görsel Programlama\Projeler\Güncel proje\CokKatmanliMimari\CokKatmanliMimari.PL\bin\Debug\Entity.dll
+D:\OLD_DERSLER\3.Sınıf\1. Dönem\Görsel Programlama\Projeler\Güncel proje\CokKatmanliMimari\CokKatmanliMimari.PL\bin\Debug\System.Data.OleDb.dll
+D:\OLD_DERSLER\3.Sınıf\1. Dönem\Görsel Programlama\Projeler\Güncel proje\CokKatmanliMimari\CokKatmanliMimari.PL\bin\Debug\ZedGraph.dll
+D:\OLD_DERSLER\3.Sınıf\1. Dönem\Görsel Programlama\Projeler\Güncel proje\CokKatmanliMimari\CokKatmanliMimari.PL\bin\Debug\DAL.dll
+D:\OLD_DERSLER\3.Sınıf\1. Dönem\Görsel Programlama\Projeler\Güncel proje\CokKatmanliMimari\CokKatmanliMimari.PL\bin\Debug\BL.pdb
+D:\OLD_DERSLER\3.Sınıf\1. Dönem\Görsel Programlama\Projeler\Güncel proje\CokKatmanliMimari\CokKatmanliMimari.PL\bin\Debug\Entity.pdb
+D:\OLD_DERSLER\3.Sınıf\1. Dönem\Görsel Programlama\Projeler\Güncel proje\CokKatmanliMimari\CokKatmanliMimari.PL\bin\Debug\System.Data.OleDb.xml
+D:\OLD_DERSLER\3.Sınıf\1. Dönem\Görsel Programlama\Projeler\Güncel proje\CokKatmanliMimari\CokKatmanliMimari.PL\bin\Debug\ZedGraph.xml
+D:\OLD_DERSLER\3.Sınıf\1. Dönem\Görsel Programlama\Projeler\Güncel proje\CokKatmanliMimari\CokKatmanliMimari.PL\bin\Debug\DAL.pdb
+D:\OLD_DERSLER\3.Sınıf\1. Dönem\Görsel Programlama\Projeler\Güncel proje\CokKatmanliMimari\CokKatmanliMimari.PL\bin\Debug\DAL.dll.config
+D:\OLD_DERSLER\3.Sınıf\1. Dönem\Görsel Programlama\Projeler\Güncel proje\CokKatmanliMimari\CokKatmanliMimari.PL\bin\Debug\de\ZedGraph.resources.dll
+D:\OLD_DERSLER\3.Sınıf\1. Dönem\Görsel Programlama\Projeler\Güncel proje\CokKatmanliMimari\CokKatmanliMimari.PL\bin\Debug\es\ZedGraph.resources.dll
+D:\OLD_DERSLER\3.Sınıf\1. Dönem\Görsel Programlama\Projeler\Güncel proje\CokKatmanliMimari\CokKatmanliMimari.PL\bin\Debug\fr\ZedGraph.resources.dll
+D:\OLD_DERSLER\3.Sınıf\1. Dönem\Görsel Programlama\Projeler\Güncel proje\CokKatmanliMimari\CokKatmanliMimari.PL\bin\Debug\hu\ZedGraph.resources.dll
+D:\OLD_DERSLER\3.Sınıf\1. Dönem\Görsel Programlama\Projeler\Güncel proje\CokKatmanliMimari\CokKatmanliMimari.PL\bin\Debug\it\ZedGraph.resources.dll
+D:\OLD_DERSLER\3.Sınıf\1. Dönem\Görsel Programlama\Projeler\Güncel proje\CokKatmanliMimari\CokKatmanliMimari.PL\bin\Debug\ja\ZedGraph.resources.dll
+D:\OLD_DERSLER\3.Sınıf\1. Dönem\Görsel Programlama\Projeler\Güncel proje\CokKatmanliMimari\CokKatmanliMimari.PL\bin\Debug\pt\ZedGraph.resources.dll
+D:\OLD_DERSLER\3.Sınıf\1. Dönem\Görsel Programlama\Projeler\Güncel proje\CokKatmanliMimari\CokKatmanliMimari.PL\bin\Debug\ru\ZedGraph.resources.dll
+D:\OLD_DERSLER\3.Sınıf\1. Dönem\Görsel Programlama\Projeler\Güncel proje\CokKatmanliMimari\CokKatmanliMimari.PL\bin\Debug\sk\ZedGraph.resources.dll
+D:\OLD_DERSLER\3.Sınıf\1. Dönem\Görsel Programlama\Projeler\Güncel proje\CokKatmanliMimari\CokKatmanliMimari.PL\bin\Debug\sv\ZedGraph.resources.dll
+D:\OLD_DERSLER\3.Sınıf\1. Dönem\Görsel Programlama\Projeler\Güncel proje\CokKatmanliMimari\CokKatmanliMimari.PL\bin\Debug\tr\ZedGraph.resources.dll
+D:\OLD_DERSLER\3.Sınıf\1. Dönem\Görsel Programlama\Projeler\Güncel proje\CokKatmanliMimari\CokKatmanliMimari.PL\bin\Debug\zh-cn\ZedGraph.resources.dll
+D:\OLD_DERSLER\3.Sınıf\1. Dönem\Görsel Programlama\Projeler\Güncel proje\CokKatmanliMimari\CokKatmanliMimari.PL\bin\Debug\zh-tw\ZedGraph.resources.dll
+D:\OLD_DERSLER\3.Sınıf\1. Dönem\Görsel Programlama\Projeler\Güncel proje\CokKatmanliMimari\CokKatmanliMimari.PL\obj\Debug\CokKatmanliMimari.PL.csproj.AssemblyReference.cache
+D:\OLD_DERSLER\3.Sınıf\1. Dönem\Görsel Programlama\Projeler\Güncel proje\CokKatmanliMimari\CokKatmanliMimari.PL\obj\Debug\CokKatmanliMimari.PL.BaslangicForm.resources
+D:\OLD_DERSLER\3.Sınıf\1. Dönem\Görsel Programlama\Projeler\Güncel proje\CokKatmanliMimari\CokKatmanliMimari.PL\obj\Debug\CokKatmanliMimari.PL.GorevliGecisForm.resources
+D:\OLD_DERSLER\3.Sınıf\1. Dönem\Görsel Programlama\Projeler\Güncel proje\CokKatmanliMimari\CokKatmanliMimari.PL\obj\Debug\CokKatmanliMimari.PL.GorevliGirisForm.resources
+D:\OLD_DERSLER\3.Sınıf\1. Dönem\Görsel Programlama\Projeler\Güncel proje\CokKatmanliMimari\CokKatmanliMimari.PL\obj\Debug\CokKatmanliMimari.PL.GrafikForm.resources
+D:\OLD_DERSLER\3.Sınıf\1. Dönem\Görsel Programlama\Projeler\Güncel proje\CokKatmanliMimari\CokKatmanliMimari.PL\obj\Debug\CokKatmanliMimari.PL.KitapArama.resources
+D:\OLD_DERSLER\3.Sınıf\1. Dönem\Görsel Programlama\Projeler\Güncel proje\CokKatmanliMimari\CokKatmanliMimari.PL\obj\Debug\CokKatmanliMimari.PL.KitapIslemForm.resources
+D:\OLD_DERSLER\3.Sınıf\1. Dönem\Görsel Programlama\Projeler\Güncel proje\CokKatmanliMimari\CokKatmanliMimari.PL\obj\Debug\CokKatmanliMimari.PL.OgrenciGirisForm.resources
+D:\OLD_DERSLER\3.Sınıf\1. Dönem\Görsel Programlama\Projeler\Güncel proje\CokKatmanliMimari\CokKatmanliMimari.PL\obj\Debug\CokKatmanliMimari.PL.OgrenciForm.resources
+D:\OLD_DERSLER\3.Sınıf\1. Dönem\Görsel Programlama\Projeler\Güncel proje\CokKatmanliMimari\CokKatmanliMimari.PL\obj\Debug\CokKatmanliMimari.PL.OgrenciIslemForm.resources
+D:\OLD_DERSLER\3.Sınıf\1. Dönem\Görsel Programlama\Projeler\Güncel proje\CokKatmanliMimari\CokKatmanliMimari.PL\obj\Debug\CokKatmanliMimari.PL.Properties.Resources.resources
+D:\OLD_DERSLER\3.Sınıf\1. Dönem\Görsel Programlama\Projeler\Güncel proje\CokKatmanliMimari\CokKatmanliMimari.PL\obj\Debug\CokKatmanliMimari.PL.csproj.GenerateResource.cache
+D:\OLD_DERSLER\3.Sınıf\1. Dönem\Görsel Programlama\Projeler\Güncel proje\CokKatmanliMimari\CokKatmanliMimari.PL\obj\Debug\CokKatmanliMimari.PL.csproj.CoreCompileInputs.cache
+D:\OLD_DERSLER\3.Sınıf\1. Dönem\Görsel Programlama\Projeler\Güncel proje\CokKatmanliMimari\CokKatmanliMimari.PL\obj\Debug\CokKatmanliMimari.PL.csproj.CopyComplete
+D:\OLD_DERSLER\3.Sınıf\1. Dönem\Görsel Programlama\Projeler\Güncel proje\CokKatmanliMimari\CokKatmanliMimari.PL\obj\Debug\CokKatmanliMimari.PL.exe
+D:\OLD_DERSLER\3.Sınıf\1. Dönem\Görsel Programlama\Projeler\Güncel proje\CokKatmanliMimari\CokKatmanliMimari.PL\obj\Debug\CokKatmanliMimari.PL.pdb

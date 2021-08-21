@@ -1,0 +1,56 @@
+C:\Users\BASKURT\source\repos\CokKatmanliMimari\BL\bin\Debug\BL.dll
+C:\Users\BASKURT\source\repos\CokKatmanliMimari\BL\bin\Debug\BL.pdb
+C:\Users\BASKURT\source\repos\CokKatmanliMimari\BL\bin\Debug\DAL.dll
+C:\Users\BASKURT\source\repos\CokKatmanliMimari\BL\bin\Debug\Entity.dll
+C:\Users\BASKURT\source\repos\CokKatmanliMimari\BL\bin\Debug\DAL.pdb
+C:\Users\BASKURT\source\repos\CokKatmanliMimari\BL\bin\Debug\Entity.pdb
+C:\Users\BASKURT\source\repos\CokKatmanliMimari\BL\obj\Debug\BL.csprojAssemblyReference.cache
+C:\Users\BASKURT\source\repos\CokKatmanliMimari\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\BASKURT\source\repos\CokKatmanliMimari\BL\obj\Debug\BL.csproj.CopyComplete
+C:\Users\BASKURT\source\repos\CokKatmanliMimari\BL\obj\Debug\BL.dll
+C:\Users\BASKURT\source\repos\CokKatmanliMimari\BL\obj\Debug\BL.pdb
+C:\Users\BASKURT\source\repos\CokKatmanliMimari\BL\bin\Debug\System.Data.OleDb.dll
+C:\Users\BASKURT\source\repos\CokKatmanliMimari\BL\bin\Debug\System.Data.OleDb.xml
+C:\Users\BASKURT\source\repos\CokKatmanliMimari\BL\bin\Debug\DAL.dll.config
+C:\Users\BASKURT\Desktop\Proje_KutuphaneOtomasyonu\CokKatmanliMimari\BL\bin\Debug\BL.dll
+C:\Users\BASKURT\Desktop\Proje_KutuphaneOtomasyonu\CokKatmanliMimari\BL\bin\Debug\BL.pdb
+C:\Users\BASKURT\Desktop\Proje_KutuphaneOtomasyonu\CokKatmanliMimari\BL\bin\Debug\DAL.dll
+C:\Users\BASKURT\Desktop\Proje_KutuphaneOtomasyonu\CokKatmanliMimari\BL\bin\Debug\Entity.dll
+C:\Users\BASKURT\Desktop\Proje_KutuphaneOtomasyonu\CokKatmanliMimari\BL\bin\Debug\System.Data.OleDb.dll
+C:\Users\BASKURT\Desktop\Proje_KutuphaneOtomasyonu\CokKatmanliMimari\BL\bin\Debug\DAL.pdb
+C:\Users\BASKURT\Desktop\Proje_KutuphaneOtomasyonu\CokKatmanliMimari\BL\bin\Debug\DAL.dll.config
+C:\Users\BASKURT\Desktop\Proje_KutuphaneOtomasyonu\CokKatmanliMimari\BL\bin\Debug\Entity.pdb
+C:\Users\BASKURT\Desktop\Proje_KutuphaneOtomasyonu\CokKatmanliMimari\BL\bin\Debug\System.Data.OleDb.xml
+C:\Users\BASKURT\Desktop\Proje_KutuphaneOtomasyonu\CokKatmanliMimari\BL\obj\Debug\BL.csprojAssemblyReference.cache
+C:\Users\BASKURT\Desktop\Proje_KutuphaneOtomasyonu\CokKatmanliMimari\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\BASKURT\Desktop\Proje_KutuphaneOtomasyonu\CokKatmanliMimari\BL\obj\Debug\BL.csproj.CopyComplete
+C:\Users\BASKURT\Desktop\Proje_KutuphaneOtomasyonu\CokKatmanliMimari\BL\obj\Debug\BL.dll
+C:\Users\BASKURT\Desktop\Proje_KutuphaneOtomasyonu\CokKatmanliMimari\BL\obj\Debug\BL.pdb
+C:\Users\BASKURT\Desktop\Moruk Güncel Setup\CokKatmanliMimari\BL\bin\Debug\BL.dll
+C:\Users\BASKURT\Desktop\Moruk Güncel Setup\CokKatmanliMimari\BL\bin\Debug\BL.pdb
+C:\Users\BASKURT\Desktop\Moruk Güncel Setup\CokKatmanliMimari\BL\bin\Debug\DAL.dll
+C:\Users\BASKURT\Desktop\Moruk Güncel Setup\CokKatmanliMimari\BL\bin\Debug\Entity.dll
+C:\Users\BASKURT\Desktop\Moruk Güncel Setup\CokKatmanliMimari\BL\bin\Debug\System.Data.OleDb.dll
+C:\Users\BASKURT\Desktop\Moruk Güncel Setup\CokKatmanliMimari\BL\bin\Debug\DAL.pdb
+C:\Users\BASKURT\Desktop\Moruk Güncel Setup\CokKatmanliMimari\BL\bin\Debug\DAL.dll.config
+C:\Users\BASKURT\Desktop\Moruk Güncel Setup\CokKatmanliMimari\BL\bin\Debug\Entity.pdb
+C:\Users\BASKURT\Desktop\Moruk Güncel Setup\CokKatmanliMimari\BL\bin\Debug\System.Data.OleDb.xml
+C:\Users\BASKURT\Desktop\Moruk Güncel Setup\CokKatmanliMimari\BL\obj\Debug\BL.csprojAssemblyReference.cache
+C:\Users\BASKURT\Desktop\Moruk Güncel Setup\CokKatmanliMimari\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\BASKURT\Desktop\Moruk Güncel Setup\CokKatmanliMimari\BL\obj\Debug\BL.csproj.CopyComplete
+C:\Users\BASKURT\Desktop\Moruk Güncel Setup\CokKatmanliMimari\BL\obj\Debug\BL.dll
+C:\Users\BASKURT\Desktop\Moruk Güncel Setup\CokKatmanliMimari\BL\obj\Debug\BL.pdb
+D:\OLD_DERSLER\3.Sınıf\1. Dönem\Görsel Programlama\Projeler\Güncel proje\CokKatmanliMimari\BL\bin\Debug\BL.dll
+D:\OLD_DERSLER\3.Sınıf\1. Dönem\Görsel Programlama\Projeler\Güncel proje\CokKatmanliMimari\BL\bin\Debug\BL.pdb
+D:\OLD_DERSLER\3.Sınıf\1. Dönem\Görsel Programlama\Projeler\Güncel proje\CokKatmanliMimari\BL\bin\Debug\DAL.dll
+D:\OLD_DERSLER\3.Sınıf\1. Dönem\Görsel Programlama\Projeler\Güncel proje\CokKatmanliMimari\BL\bin\Debug\Entity.dll
+D:\OLD_DERSLER\3.Sınıf\1. Dönem\Görsel Programlama\Projeler\Güncel proje\CokKatmanliMimari\BL\bin\Debug\System.Data.OleDb.dll
+D:\OLD_DERSLER\3.Sınıf\1. Dönem\Görsel Programlama\Projeler\Güncel proje\CokKatmanliMimari\BL\bin\Debug\DAL.pdb
+D:\OLD_DERSLER\3.Sınıf\1. Dönem\Görsel Programlama\Projeler\Güncel proje\CokKatmanliMimari\BL\bin\Debug\DAL.dll.config
+D:\OLD_DERSLER\3.Sınıf\1. Dönem\Görsel Programlama\Projeler\Güncel proje\CokKatmanliMimari\BL\bin\Debug\Entity.pdb
+D:\OLD_DERSLER\3.Sınıf\1. Dönem\Görsel Programlama\Projeler\Güncel proje\CokKatmanliMimari\BL\bin\Debug\System.Data.OleDb.xml
+D:\OLD_DERSLER\3.Sınıf\1. Dönem\Görsel Programlama\Projeler\Güncel proje\CokKatmanliMimari\BL\obj\Debug\BL.csproj.AssemblyReference.cache
+D:\OLD_DERSLER\3.Sınıf\1. Dönem\Görsel Programlama\Projeler\Güncel proje\CokKatmanliMimari\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+D:\OLD_DERSLER\3.Sınıf\1. Dönem\Görsel Programlama\Projeler\Güncel proje\CokKatmanliMimari\BL\obj\Debug\BL.csproj.CopyComplete
+D:\OLD_DERSLER\3.Sınıf\1. Dönem\Görsel Programlama\Projeler\Güncel proje\CokKatmanliMimari\BL\obj\Debug\BL.dll
+D:\OLD_DERSLER\3.Sınıf\1. Dönem\Görsel Programlama\Projeler\Güncel proje\CokKatmanliMimari\BL\obj\Debug\BL.pdb
